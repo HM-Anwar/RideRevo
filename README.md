@@ -51,7 +51,7 @@ To run Riderevo locally, follow these steps:
       - **Open the `lib/utils/constants.dart` file**: This file contains the important constants used in the app.
       - **Firebase Storage URL**:
       - Locate the `FIREBASE_STORAGE_URL` constant.
-      - Replace `'YOUR_FIREBASE_STORAGE_URL'` with your actual Google Maps API key.
+      - Replace `'YOUR_FIREBASE_STORAGE_URL'` with your actual Firebase Storage URL.
       <br>
 
    ```dart
