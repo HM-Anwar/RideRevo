@@ -46,7 +46,7 @@ To run Riderevo locally, follow these steps:
    - Download the Firebase configuration file (google-services.json).
    - Enable Firebase Authentication
    - Enable Firebase Firestore (Cloud Firestore)
-   - Enable Firebase Realtime Database
+   - Enable Firebase Realtime Database.
    - Enable Firebase Storage and configure Firebase Storage in the code:
       - **Open the `lib/utils/constants.dart` file**: This file contains the important constants used in the app.
       - **Firebase Storage URL**:
